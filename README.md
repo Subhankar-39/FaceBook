@@ -1,2 +1,2 @@
 # FaceBook
- Typee of FaceBook Clone 
+ Type of FaceBook Clone 
